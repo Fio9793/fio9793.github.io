@@ -1,6 +1,6 @@
 /* 全局背景色（覆盖整个页面） */
 body {
-  background-color: #f5f7fa !important;  /* 浅灰蓝，护眼且简洁 */
+  background-color: hsl(195, 61%, 61%) !important;  /* 浅灰蓝，护眼且简洁 */
   background-image: none !important;     /* 清空默认背景图（如有） */
 }
 
