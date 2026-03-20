@@ -1,0 +1,12 @@
+/* 全局背景色（覆盖整个页面） */
+body {
+  background-color: #f5f7fa !important;  /* 浅灰蓝，护眼且简洁 */
+  background-image: none !important;     /* 清空默认背景图（如有） */
+}
+
+/* 文章内容区域背景（与全局区分，提升可读性） */
+.post-body {
+  background-color: #ffffff !important;  /* 文章区域用白色，突出内容 */
+  border-radius: 8px;                    /* 圆角边框，更美观 */
+  padding: 20px !important;              /* 内边距，避免文字贴边 */
+}
